@@ -1,4 +1,4 @@
-# LangGraph-Udemy-Course
+# LangGraph-Course
 
 This repository contains a collection of Jupyter notebooks and supporting projects showcasing the functionality of **LangGraph**, a Python library for building and managing agents with graph-based workflows.
 
